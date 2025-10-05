@@ -31,7 +31,7 @@ It demonstrates how to build a scalable and interactive movie application using 
 ## 👤 Author
 **Ahmed Reda**  
 [GitHub Profile](https://github.com/a7-reda)  
-[LinkedIn](www.linkedin.com/in/ahmed-reda-b4459230a)
+[LinkedIn](https://www.linkedin.com/in/ahmed-reda-b4459230a/)
 
 ---
 
