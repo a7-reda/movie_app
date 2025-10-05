@@ -1,16 +1,41 @@
-# task2
+# 🎬 Movie App
 
-A new Flutter project.
+A Flutter application that allows users to explore trending, popular, and upcoming movies using a REST API.  
+The app provides detailed information, ratings, posters, and smooth UI interactions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
+- 🎥 Browse trending and top-rated movies    
+- 🧾 View detailed information (poster, rating, overview, release date)  
+- 💾 Save favorite movies locally  
+- ⚡ Responsive and modern UI design  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Built With
+- **Flutter & Dart** – Cross-platform mobile app development  
+- **REST API Integration** – Fetch movie data from a public API  
+- **State Management:**  cubit 
+ 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 💡 About
+This project was developed as part of my Flutter learning journey to practice API integration, state management, and UI design.  
+It demonstrates how to build a scalable and interactive movie application using modern Flutter practices.
+
+---
+
+
+## 👤 Author
+**Ahmed Reda**  
+[GitHub Profile](https://github.com/a7-reda)  
+[LinkedIn](www.linkedin.com/in/ahmed-reda-b4459230a)
+
+---
+
+## ⭐ Show Your Support
+If you like this project, please give it a **⭐ on GitHub** to support my work!
+
+
